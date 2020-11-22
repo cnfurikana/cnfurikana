@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ef3874b69b5d1aaa605688bed98910a2.js"
+  "/precache-manifest.41d94b4ccbc3c96575c5413aa4205c01.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cnfurikana-web"});
